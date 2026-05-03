@@ -15,6 +15,4 @@ loadeddict=cu.CU_GameSave(loadedsave.dict())#loading a dict
 loadeddict.write_save("test2.sv")#writing a save file
 ```
 ## pip installation
-'''bash
-pip install git+https://github.com/detotix/cu-pysave.git
-'''
+`pip install git+https://github.com/detotix/cu-pysave.git`
