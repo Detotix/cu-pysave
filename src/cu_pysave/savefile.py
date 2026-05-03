@@ -13,7 +13,8 @@ class CU_GameSave:
             self._data = data
         else:
             raise TypeError("Data must be a string or a dict.")
-    
+        self.loadedlimb=None
+
     def write_save(self, filename: str):
         """
         Writes the savefile to disk.
@@ -32,7 +33,12 @@ class CU_GameSave:
         '''
         returns limbs.
         '''
-        return CU_Limbs(self._data["limbs"])
+        #makes the limb only load once and saves it for later use
+        if not self.loadedlimb:
+            self.loadedlimb=CU_Limbs(self._data["limbs"])
+            return self.loadedlimb
+        else:
+            return self.loadedlimb
 
 def LoadSave(filename: str) -> CU_GameSave:
     """

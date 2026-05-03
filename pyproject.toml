@@ -1,5 +1,5 @@
 [project]
-name = "cu_pysafe"
+name = "cu_pysave"
 version = "0.1.0"
 description = "A simple JSON+gzip savefile wrapper"
 authors = [
