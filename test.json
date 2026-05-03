@@ -1,0 +1,1216 @@
+{
+    "body": {
+        "maxSpeed": 25.0,
+        "jumpSpeed": 26.0,
+        "temporarySlowdown": 0.0,
+        "moveForce": 4000.0,
+        "slowdownAmount": 0.2,
+        "bloodOxygen": 100.0,
+        "bloodVolume": 100.0,
+        "heartRate": 65.87188,
+        "respiratoryRate": 100.0,
+        "bloodPressure": 124.729965,
+        "bloodVesselSize": 1.0,
+        "fibrillationProgress": 0.0,
+        "bloodViscosity": 0.0,
+        "heartRatePressureOffset": -25.0893383,
+        "adrenaline": 4.29909658,
+        "curAdrenaline": 4.29909658,
+        "happiness": 2.31249833,
+        "weightOffset": 7.13456726,
+        "hunger": 117.676613,
+        "thirst": 113.395645,
+        "stamina": 100.0,
+        "energy": 68.17074,
+        "brainHealth": 96.32732,
+        "consciousness": 96.32727,
+        "shock": 0.0,
+        "temperature": 36.87442,
+        "sicknessAmount": 29.7486286,
+        "desensitizedMult": 0.7289999,
+        "corpsesSeen": 3,
+        "septicShock": 0.0,
+        "disfigured": false,
+        "eyeGone": false,
+        "bothEyesGone": false,
+        "radiationSickness": 0.0,
+        "caffeinated": 0.0,
+        "hearingLoss": 0.0,
+        "internalBleeding": 0.0,
+        "hemothorax": 0.0,
+        "painShock": 0.0,
+        "traumaAmount": 0.0,
+        "wetness": 0.0,
+        "badSleepAmount": -5026.777,
+        "goodSleepTime": 3030.124,
+        "snowAmount": 0.0,
+        "immunity": 148.6256,
+        "antibioticImmunityTime": 167.0,
+        "triedRollingLastStand": false,
+        "succesfullyRolledLastStand": false,
+        "lastStandTime": -15026.0,
+        "dirtyness": 100.0,
+        "brainGrowSickness": 0.0,
+        "usedNeuralBooster": false,
+        "clawHealth": 100.0,
+        "clawRegrowTime": 0.0,
+        "skills": {
+            "STR": 10,
+            "RES": 12,
+            "INT": 10,
+            "expSTR": 722.573853,
+            "expRES": 944.4395,
+            "expINT": 737.0,
+            "minSTR": 640,
+            "maxSTR": 758,
+            "minRES": 897,
+            "maxRES": 1062,
+            "minINT": 640,
+            "maxINT": 758,
+            "STRFrom10": 0.0,
+            "RESFrom10": 2.0,
+            "INTFrom10": 0.0
+        }
+    },
+    "limbs": [
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 76.63873,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 100.0,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 92.91374,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 82.35492,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 87.9587,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 83.44771,
+            "muscleHealth": 64.02363,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 4.74197769,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 98.1594238,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 79.7646561,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 5.43354464,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 83.0608139,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 5.860114,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -358.550171,
+            "boneHealTimer": -222.818253,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 83.79454,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 2.55289769,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -356.420074,
+            "boneHealTimer": -220.689056,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 99.52873,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -354.4755,
+            "boneHealTimer": -218.744278,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 74.70358,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 5.19565058,
+            "muscleHealth": 0.418174177,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 16.112566,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -372.393646,
+            "boneHealTimer": -236.6605,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 194.712372,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 77.8243,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 5.80045557,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 85.3028946,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 3.12593675,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -351.8849,
+            "boneHealTimer": -216.151749,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        },
+        {
+            "skinHealth": 100.0,
+            "muscleHealth": 99.883934,
+            "dislocated": false,
+            "broken": false,
+            "splinted": false,
+            "infected": false,
+            "infectionAmount": 0.0,
+            "pain": 0.0,
+            "bleedAmount": 0.0,
+            "dislocationTimer": -378.8286,
+            "boneHealTimer": -243.0966,
+            "blockedBleeding": false,
+            "shrapnel": 0,
+            "furBloodAmount": 0.0,
+            "disinfectionTime": 0.0,
+            "bandageSlowAmount": 0.0,
+            "skinHealAmount": 0.0,
+            "dismembered": false
+        }
+    ],
+    "items": [
+        {
+            "id": "woodpickaxe",
+            "condition": 0.7928576,
+            "slot": 0,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "glowplantfruit",
+            "condition": 0.9672063,
+            "slot": 2,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "purse",
+            "condition": 0.919855952,
+            "slot": 3,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "braingrow",
+            "condition": 0.8,
+            "slot": 3,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "disinfectant",
+            "condition": 0.7,
+            "slot": 3,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "amiodarone",
+            "condition": 1.0,
+            "slot": 3,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "bloodbag",
+            "condition": 1.0,
+            "slot": 3,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "foliagebag",
+            "condition": 0.3048061,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "bloodbaghuman",
+            "condition": 0.733333349,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "antidepressants",
+            "condition": 1.0,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "autopump",
+            "condition": 1.0,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "naloxone",
+            "condition": 1.0,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "combatpen",
+            "condition": 1.0,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "tweezers",
+            "condition": 0.99,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "antibiotics",
+            "condition": 0.8,
+            "slot": 4,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "trashbag",
+            "condition": 0.762882,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "chips",
+            "condition": 0.7559045,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "medicalsuture",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "chestdrain",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "rippeddressing",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "bandage",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "bandage",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        },
+        {
+            "id": "morphine",
+            "condition": 1.0,
+            "slot": 5,
+            "wearSlot": null,
+            "favourited": false
+        }
+    ],
+    "itemComponents": [
+        {},
+        {},
+        {},
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "braingrow",
+                        "amount": 80.0
+                    }
+                ]
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "disinfectant",
+                        "amount": 140.0
+                    }
+                ]
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "amiodarone",
+                        "amount": 100.0
+                    }
+                ]
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "blood",
+                        "amount": 750.0
+                    }
+                ]
+            }
+        },
+        {},
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "redblood",
+                        "amount": 550.0
+                    }
+                ]
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "antidepressants",
+                        "amount": 140.0
+                    }
+                ]
+            }
+        },
+        {
+            "BatteryItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "maxCharge": 100.0,
+                "batteryType": "mediumbattery",
+                "batteryWasFavourited": false
+            },
+            "AutoPump, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "duration": 0.0
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "naloxone",
+                        "amount": 100.0
+                    }
+                ]
+            }
+        },
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "highgradestimulant",
+                        "amount": 60.0
+                    },
+                    {
+                        "liquidId": "epinephrine",
+                        "amount": 15.0
+                    },
+                    {
+                        "liquidId": "oxyline",
+                        "amount": 25.0
+                    }
+                ]
+            }
+        },
+        {},
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "antibiotics",
+                        "amount": 80.0
+                    }
+                ]
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "WaterContainerItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+                "stack": [
+                    {
+                        "liquidId": "morphine",
+                        "amount": 100.0
+                    }
+                ]
+            }
+        }
+    ],
+    "bodyComponents": {},
+    "limbComponents": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "biome": 2,
+    "totalTraveled": 614,
+    "runTime": 4067.07886,
+    "cHeight": 160,
+    "cAge": 15,
+    "cId": 58027,
+    "cVer": 1,
+    "savedRecipeData": {
+        "saved": [
+            {
+                "Item1": true,
+                "Item2": 1
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": true,
+                "Item2": 2
+            },
+            {
+                "Item1": false,
+                "Item2": 3
+            },
+            {
+                "Item1": true,
+                "Item2": 0
+            },
+            {
+                "Item1": false,
+                "Item2": 1
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 18
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": true,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 15
+            },
+            {
+                "Item1": false,
+                "Item2": 15
+            },
+            {
+                "Item1": false,
+                "Item2": 15
+            },
+            {
+                "Item1": false,
+                "Item2": 2
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 0
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 0
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 13
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": true,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 13
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 16
+            },
+            {
+                "Item1": true,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 14
+            },
+            {
+                "Item1": false,
+                "Item2": 13
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 2
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 14
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 14
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 12
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 15
+            },
+            {
+                "Item1": false,
+                "Item2": 11
+            },
+            {
+                "Item1": false,
+                "Item2": 2
+            },
+            {
+                "Item1": false,
+                "Item2": 0
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 14
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 8
+            },
+            {
+                "Item1": false,
+                "Item2": 4
+            },
+            {
+                "Item1": false,
+                "Item2": 1
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 5
+            },
+            {
+                "Item1": false,
+                "Item2": 0
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            },
+            {
+                "Item1": false,
+                "Item2": 6
+            },
+            {
+                "Item1": false,
+                "Item2": 9
+            },
+            {
+                "Item1": false,
+                "Item2": 14
+            },
+            {
+                "Item1": false,
+                "Item2": 10
+            },
+            {
+                "Item1": false,
+                "Item2": 16
+            },
+            {
+                "Item1": false,
+                "Item2": 16
+            },
+            {
+                "Item1": false,
+                "Item2": 16
+            },
+            {
+                "Item1": false,
+                "Item2": 7
+            }
+        ]
+    },
+    "lastHappiness": [
+        -2.007697,
+        1.21790206,
+        4.531811,
+        -1.96327484,
+        1.46444976,
+        3.22100139,
+        3.36751151,
+        3.00347877,
+        4.140699,
+        5.12252855
+    ],
+    "trapRarity": 0.2,
+    "lootRarity": 1.0,
+    "caloriesConsumed": 4909
+}
