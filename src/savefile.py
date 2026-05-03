@@ -1,3 +1,4 @@
+from .bodylimbs import CU_Limbs
 import gzip
 import json
 
@@ -18,14 +19,20 @@ class CU_GameSave:
         Writes the savefile to disk.
         """
         with gzip.open(filename, "wb", compresslevel=9) as f:
-            print(self._data)
             f.write(json.dumps(self._data).encode("utf-8"))
-    
     def dict(self):
         """
         Returns the savefile as a dict.
         """
         return self._data
+    
+    
+    @property
+    def limbs(self):
+        '''
+        returns limbs.
+        '''
+        return CU_Limbs(self._data["limbs"])
 
 def LoadSave(filename: str) -> CU_GameSave:
     """
